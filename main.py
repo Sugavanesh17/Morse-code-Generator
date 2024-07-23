@@ -145,3 +145,4 @@ translation_frame.pack_forget()  # Hide the translation frame initially
 
 # Start the main event loop
 window.mainloop()
+a=50
