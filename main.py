@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 from ttkbootstrap import Style, ttk
-
+a=50
 # Dictionary mapping characters to their Morse code equivalents
 morse_code_dict = {'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.',
                    'F': '..-.', 'G': '--.', 'H': '....', 'I': '..', 'J': '.---',
